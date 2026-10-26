@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "my_package.api:Simple Unit Converter"
+entrypoint = "my_package.api:Simple_Unit_Converter"
