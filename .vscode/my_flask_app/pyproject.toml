@@ -1,2 +1,4 @@
 [tool.vercel]
 entrypoint = "my_package.api:Simple_Unit_Converter"
+[tool.vercel.scripts]
+build = "python build.py"
